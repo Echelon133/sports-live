@@ -1,0 +1,6 @@
+[submodule "sports-live-app"]
+	path = sports-live-app
+	url = https://github.com/Echelon133/sports-live-app.git
+[submodule "sports-live-app-client"]
+	path = sports-live-app-client
+	url = https://github.com/Echelon133/sports-live-app-client.git
