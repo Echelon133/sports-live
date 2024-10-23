@@ -1,5 +1,15 @@
 # sports-live
 
+## Live match updates in the compact view
+
+![Compact goal update](https://github.com/Echelon133/sports-live/blob/master/screens/compact_goal_update.png)
+
+![Compact red card update](https://github.com/Echelon133/sports-live/blob/master/screens/compact_red_card_update.png)
+
+## Live match updates in the detailed view
+
+![Detailed goal update](https://github.com/Echelon133/sports-live/blob/master/screens/detailed_websocket_update.png)
+
 ## Filtering matches by date
 ![Filtering matches by date](https://github.com/Echelon133/sports-live/blob/master/screens/index_future_matches.png)
 
