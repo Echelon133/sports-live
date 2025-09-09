@@ -1,43 +1,63 @@
-# sports-live
+Full-stack application for live text coverage of football matches. 
 
-## Live match updates in the compact view
+## Used Technologies
 
-![Compact goal update](https://github.com/Echelon133/sports-live/blob/master/screens/compact_goal_update.png)
+**Back End**: *Java, Spring Boot, Jenkins, PostgreSQL, Kafka, Kubernetes, Docker, Socket.io*
 
-![Compact red card update](https://github.com/Echelon133/sports-live/blob/master/screens/compact_red_card_update.png)
+**Front End**: *Next.js, Typescript, TailwindCSS*
 
-## Live match updates in the detailed view
+## Features
 
-![Detailed goal update](https://github.com/Echelon133/sports-live/blob/master/screens/detailed_websocket_update.png)
+### Live match updates in the compact match view
 
-## Filtering matches by date
-![Filtering matches by date](https://github.com/Echelon133/sports-live/blob/master/screens/index_future_matches.png)
+![Match compact updates](https://github.com/Echelon133/sports-live/blob/master/screens/match_compact_updates.png)
 
-## Team's results and future matches
+### Filtering matches by date
+![Date picker](https://github.com/Echelon133/sports-live/blob/master/screens/index1.png)
 
-![Team's results and future matches](https://github.com/Echelon133/sports-live/blob/master/screens/team_view.png)
+### Pinned competitions
+![Pinned competitions](https://github.com/Echelon133/sports-live/blob/master/screens/index2.png)
 
-## Listing of events that happened in a match
+### Searching by category
+![Search](https://github.com/Echelon133/sports-live/blob/master/screens/search.png)
 
-![List of match events](https://github.com/Echelon133/sports-live/blob/master/screens/match_events_view.png)
+### Team pages
 
-## Lineups of a match
+![Team pages](https://github.com/Echelon133/sports-live/blob/master/screens/team_view.png)
 
-![Match lineups](https://github.com/Echelon133/sports-live/blob/master/screens/match_view_lineups.png)
+### Match event listing
 
-## Future matches in a competition
+![List of match events](https://github.com/Echelon133/sports-live/blob/master/screens/match1.png)
+
+### Future matches in a competition
 
 ![Future matches in a competition](https://github.com/Echelon133/sports-live/blob/master/screens/competition_future_matches.png)
 
-## Competition's standings
+### Competition's standings
 
-![Competition's standings](https://github.com/Echelon133/sports-live/blob/master/screens/competition_standings.png)
+![Competition's standings](https://github.com/Echelon133/sports-live/blob/master/screens/comp3.png)
 
-## Detailed information about team's form in a competition
+### Detailed information about team's form in a competition
 
 ![Team's form detail](https://github.com/Echelon133/sports-live/blob/master/screens/competition_form_detail.png)
 
-## Competition's top scorers
+### Displaying matches by round
 
-![Competition's top scorers](https://github.com/Echelon133/sports-live/blob/master/screens/competition_top_scorers.png)
+![Round picker](https://github.com/Echelon133/sports-live/blob/master/screens/comp4_2.png)
+
+### Displaying knockout phase tree
+
+![Knockout phase tree](https://github.com/Echelon133/sports-live/blob/master/screens/comp5_2.png)
+
+### Temporary highlighting of pairings when using the arrow buttons of these pairings
+
+![Highlight 1](https://github.com/Echelon133/sports-live/blob/master/screens/next_previous_knockout.png)
+
+### Detailed listing of matches in a particular pairing
+
+![List matches in pairing](https://github.com/Echelon133/sports-live/blob/master/screens/comp8.png)
+
+### Competition's top scorers
+
+![Competition's top scorers](https://github.com/Echelon133/sports-live/blob/master/screens/comp9.png)
 
