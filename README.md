@@ -29,6 +29,10 @@ Full-stack application for live text coverage of football matches.
 
 ![List of match events](https://github.com/Echelon133/sports-live/blob/master/screens/match1.png)
 
+### Match lineup listing
+
+![Match lineup](https://github.com/Echelon133/sports-live/blob/master/screens/lineup.png)
+
 ### Future matches in a competition
 
 ![Future matches in a competition](https://github.com/Echelon133/sports-live/blob/master/screens/competition_future_matches.png)
